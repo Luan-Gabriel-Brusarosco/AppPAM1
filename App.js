@@ -10,7 +10,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Titulo/>     
-      <Card/>     
+      <Card/> 
+      <Conteudo/>  
       <StatusBar style="auto" />
     </View>
   );

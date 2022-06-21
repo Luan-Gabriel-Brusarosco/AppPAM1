@@ -5,11 +5,17 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         marginTop: 20
     },
+    card:{
+        backgroundColor: '#fff',
+        borderRadius: 20,
+        width:350
+    },
     texto:{
-        padding: 10,
-        fontSize: 10,
+        paddingHorizontal: 20,
+        paddingVertical: 10,
+        fontSize: 15,
         fontWeight: 'bold',
-        color: /*'#ae3038'*/ '#4e6c73'
+        color:'#000' /*'#ae3038'*/ /*'#4e6c73'*/
     }
 });
 

@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
         padding: 15,
         fontSize: 15,
         fontWeight: 'bold',
-        color: /*'#ae3038'*/ '#4e6c73'
+        color: '#000' /*'#ae3038'*/ /*'#4e6c73'*/
     },
     img:{
         width:350,
